@@ -139,7 +139,7 @@ footer * {
     position: absolute;
     width: 12px;
     height: 10px;
-    background: url(/img/reg-arrow.png) center;
+    background: url(../img/reg-arrow.png) center;
     right: 20px;
     cursor: pointer
 }
@@ -279,7 +279,7 @@ footer * {
 .experts__video {
     width: 508px;
     height: 363px;
-    background: url('img/video.png') center;
+    background: url('..img/video.png') center;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 0;
@@ -306,7 +306,7 @@ footer * {
     position: absolute;
     width: 19px;
     height: 23px;
-    background: url(img/play.png) center;
+    background: url(..img/play.png) center;
     top: 35px;
     left: 35px;
     cursor: pointer
@@ -516,28 +516,28 @@ footer * {
 .courses__block-img-one {
     width: 238px;
     height: 300px;
-    background: url(img/courses1.png) center;
+    background: url(../img/courses1.png) center;
     display: flex
 }
 
 .courses__block-img-two {
     width: 238px;
     height: 300px;
-    background: url(img/courses2.png) center;
+    background: url(../img/courses2.png) center;
     display: flex
 }
 
 .courses__block-img-three {
     width: 238px;
     height: 300px;
-    background: url(img/courses3.png) center;
+    background: url(../img/courses3.png) center;
     display: flex
 }
 
 .courses__block-img-four {
     width: 238px;
     height: 300px;
-    background: url(img/courses4.png) center;
+    background: url(../img/courses4.png) center;
     display: flex
 }
 
@@ -839,28 +839,28 @@ footer * {
 .team__block-image-one {
     width: 238px;
     height: 231px;
-    background: url(img/team-avatar.png) center;
+    background: url(../img/team-avatar.png) center;
     border-radius: 20px 20px 0 0
 }
 
 .team__block-image-two {
     width: 238px;
     height: 231px;
-    background: url(img/team-avatar1.png) center;
+    background: url(../img/team-avatar1.png) center;
     border-radius: 20px 20px 0 0
 }
 
 .team__block-image-three {
     width: 238px;
     height: 231px;
-    background: url(img/team-avatar2.png) center;
+    background: url(../img/team-avatar2.png) center;
     border-radius: 20px 20px 0 0
 }
 
 .team__block-image-four {
     width: 238px;
     height: 231px;
-    background: url(img/team-avatar3.png) center;
+    background: url(../img/team-avatar3.png) center;
     border-radius: 20px 20px 0 0
 }
 
